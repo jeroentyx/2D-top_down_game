@@ -4,7 +4,7 @@ author Jeroen Tan
 email yixujeroen.tan@digipen.edu
 date created 06 May 2020
 Brief Description: A header file containing
-Game loop function
+Game loop functions
 ******************************************************************************/
 
 
